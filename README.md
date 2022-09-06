@@ -30,7 +30,7 @@ Total Profit was: 242.4116754874732%
 
 **LSTM Machine Learning:**
 Google was used to backtest, starting from 2020-01-01 to 2022-03-11
-![Figure_1](https://user-images.githubusercontent.com/97631123/188745716-618de690-e460-49b9-9cd5-ebad0adb6c7b.png)
+![Figure_1](https://user-images.githubusercontent.com/97631123/188745716-618de690-e460-49b9-9cd5-ebad0adb6c7b.png)  
 Prediction follows the actual values quite accurately.
 
 
