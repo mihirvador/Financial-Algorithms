@@ -40,4 +40,4 @@ There is 1 file in each folder. The files name is the same as the name of the al
 
 **Version**
 ------------------------------------------------
-This was all written in Python 3.7.0 or in Tensorflow 2 in Python 3.7.0
+This was all written in Python 3.7.0 and in Tensorflow 2.
