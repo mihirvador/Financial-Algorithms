@@ -21,12 +21,12 @@ This is a simple modeling strategy where the Long Short-Term Memory(LSTM) model 
 **Bollinger Bands:**
 MSFT was used to backtest, starting from 2020-01-01 to current date.
 ![Figure_1](https://user-images.githubusercontent.com/97631123/188744912-eb6c983c-1996-4c6c-8649-536ffa07e3f7.png)
-Total Profit was: 43.22929764666034%
+Total Profit was: 43.23%
 
 **EMA10 RSI14:**
 TSLA was used to backtest, starting from 2020-01-01 to current date.
 ![Figure_1](https://user-images.githubusercontent.com/97631123/188745119-5c95cfcf-903c-422a-a48a-a580fd9429a1.png)
-Total Profit was: 242.4116754874732%
+Total Profit was: 242.41%
 
 **LSTM Machine Learning:**
 Google was used to backtest, starting from 2020-01-01 to 2022-03-11
